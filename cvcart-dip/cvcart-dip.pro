@@ -1,4 +1,4 @@
-update=Tue 07 Feb 2017 03:33:31 PM EST
+update=Wed 08 Feb 2017 11:50:14 AM EST
 version=1
 last_client=kicad
 [pcbnew]
@@ -29,8 +29,8 @@ version=1
 version=1
 LibDir=
 [eeschema/libraries]
-LibName1=/home/rene/Git/KiCad/kicadlib/db-diodes
-LibName2=/home/rene/Git/KiCad/kicadlib/db-flash
+LibName1=/home/rene/Git/KiCad/kicadlib/db-memory
+LibName2=/home/rene/Git/KiCad/kicadlib/db-diodes
 LibName3=/home/rene/Git/KiCad/kicadlib/db-passives
 LibName4=/home/rene/Git/KiCad/kicadlib/db-transistors
 LibName5=/home/rene/Git/KiCad/kicadlib/db-vgparts
