@@ -1,7 +1,4 @@
-# Colecovision Carts
-
-## License
-
+# Copyright and Disclaimer
 Copyright: René Richard
 
 This documentation describes Open Hardware and is licensed under the
@@ -13,3 +10,6 @@ WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF
 MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A
 PARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable
 conditions
+
+# Colecovision Cartridge
+This KiCad project is a 32KB Colecovision ROM cartridge.
