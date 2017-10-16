@@ -45,9 +45,9 @@ Date "2017-10-16"
 Rev "1.0"
 Comp "db Electronics"
 Comment1 "copyright: René Richard"
-Comment2 "http://ohwr.org/cernohl"
-Comment3 "Licensed under CERN OHL v.1.2"
-Comment4 ""
+Comment2 "https://github.com/db-electronics/cvcarts-kicad"
+Comment3 "http://ohwr.org/cernohl"
+Comment4 "Licensed under CERN OHL v.1.2"
 $EndDescr
 $Comp
 L R R101
