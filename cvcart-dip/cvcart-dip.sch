@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:db-sem
 LIBS:db-memory
 LIBS:db-diodes
 LIBS:db-passives
@@ -40,12 +41,12 @@ $Descr B 17000 11000
 encoding utf-8
 Sheet 1 1
 Title "Colecovision DIP Cartridge"
-Date "2017-02-07"
+Date "2017-10-16"
 Rev "1.0"
 Comp "db Electronics"
-Comment1 "drawn by: René Richard"
-Comment2 ""
-Comment3 ""
+Comment1 "copyright: René Richard"
+Comment2 "http://ohwr.org/cernohl"
+Comment3 "Licensed under CERN OHL v.1.2"
 Comment4 ""
 $EndDescr
 $Comp
